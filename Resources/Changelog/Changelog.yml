@@ -4254,3 +4254,10 @@ Entries:
   id: 8622
   time: '2025-09-02T15:03:25.0000000+00:00'
   url: https://github.com/AuroraSong14/Aurora-Song-14/pull/441
+- author: Zenixic
+  changes:
+    - type: Add
+      message: added the BH Mule into normal shipyard
+  id: 8623
+  time: '2025-09-05T00:24:07.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/445
