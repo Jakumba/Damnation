@@ -4,13 +4,9 @@
   loadouts:
   - BrigmedicClothingUniformJumpsuitBrigmedic
   - BrigmedicClothingUniformJumpskirtBrigmedic
-  - BrigmedicClothingUniformJumpsuitSle # Aurora Song
-  - BrigmedicClothingUniformJumpskirtSle # Aurora Song
   fallbacks:
   - BrigmedicClothingUniformJumpsuitBrigmedic
   - BrigmedicClothingUniformJumpskirtBrigmedic
-  - BrigmedicClothingUniformJumpsuitSle # Aurora Song
-  - BrigmedicClothingUniformJumpskirtSle # Aurora Song
 
 - type: loadoutGroup
   id: BrigmedicOuterClothing
@@ -52,7 +48,7 @@
   - BrigmedicBrigmedicPDA
   fallbacks:
   - BrigmedicBrigmedicPDA
-
+  
 - type: loadoutGroup
   id: BrigmedicGlasses
   name: loadout-group-contractor-glasses

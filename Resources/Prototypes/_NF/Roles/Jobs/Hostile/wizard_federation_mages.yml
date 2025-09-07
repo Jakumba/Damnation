@@ -48,7 +48,7 @@
 - type: startingGear
   id: NPCWizardBrickGear
   equipment:
-    head: ClothingHeadHatBrickwizard
+    head: ClothingHeadHatRedwizard
     shoes: ClothingShoesWizard
     belt: ClothingBeltWand
     # neck: ClothingNeckScarfStripedRed - Does not need neck slot

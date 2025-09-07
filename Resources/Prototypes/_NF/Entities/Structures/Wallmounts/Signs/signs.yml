@@ -55,8 +55,8 @@
 - type: entity
   parent: BaseSignDirectionalNF
   id: SignDirectionalNfsd
-  name: SLE outpost sign
-  description: A direction sign, pointing out which way an SLE outpost is.
+  name: NFSD outpost sign
+  description: A direction sign, pointing out which way an NFSD outpost is.
   components:
   - type: Sprite
     state: direction_nfsd
@@ -91,8 +91,8 @@
 - type: entity
   parent: NFBaseSign
   id: SignNfsd
-  name: SLE sign
-  description: A sign that marks the area beyond as an SLE area.
+  name: NFSD sign
+  description: A sign that marks the area beyond as an NFSD area.
   components:
   - type: Sprite
     state: nfsd
