@@ -161,23 +161,6 @@
         tags:
           - SecurityUplink
 
-- type: listing
-  id: UplinkSleSoftsuitPatrol
-  name:  uplink-sle-softsuit-patrol-name
-  description: uplink-sle-softsuit-patrol-desc
-  productEntity: ClothingOuterSoftsuitSlePatrol
-  icon: { sprite: _AS/Clothing/OuterClothing/Softsuits/sle_patrol.rsi, state: icon }
-  cost:
-    FrontierUplinkCoin: 2
-  categories:
-    - UplinkSecurityHardsuits
-  conditions:
-    - !type:StoreWhitelistCondition
-      whitelist:
-        tags:
-          - SecurityUplink
-# End Aurora Song
-
 #region weapons
 - type: listing
   id: UplinkSecurityMk32

@@ -4,13 +4,9 @@
   loadouts:
   - CadetClothingUniformJumpsuitCadet
   - CadetClothingUniformJumpskirtCadet
-  - CadetClothingUniformJumpsuitSle # Aurora Song
-  - CadetClothingUniformJumpskirtSle # Aurora Song
   fallbacks:
   - CadetClothingUniformJumpsuitCadet
   - CadetClothingUniformJumpskirtCadet
-  - CadetClothingUniformJumpsuitSle # Aurora Song
-  - CadetClothingUniformJumpskirtSle # Aurora Song
 
 - type: loadoutGroup
   id: CadetOuterClothing
