@@ -153,7 +153,7 @@
     job_id: StationRepresentative
 
 - type: entity
-  id: SpawnPointSheriff
+  id: Sheriff
   parent: SpawnPointHeadOfSecurity
   name: Comissioner
   components:
@@ -163,7 +163,7 @@
 - type: entity
   id: SpawnPointBailiff
   parent: SpawnPointWarden
-  name: Lieutenant
+  name: Bailiff
   components:
   - type: SpawnPoint
     job_id: Bailiff

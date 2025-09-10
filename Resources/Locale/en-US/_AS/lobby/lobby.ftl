@@ -10,8 +10,8 @@ aurora-lobby-alley-description = This is a place to acquire equipment and make d
    - Socialize with other mercenaries or even shady characters - or not.
 
 aurora-lobby-sle-subtext = The center of operations for the Sector Law Enforcement.
-aurora-lobby-sle-description = The SLEO is the center of operations for the sector's police department. Here you can:
-   - Join the SLE
+aurora-lobby-sle-description = The USF Outpost is the center of operations for the sector's ranger department. Here you can:
+   - Join the NFSD
    - Apply for a various licenses
    - Do contraband trade-ins or registrations
    - Report crimes

@@ -8,20 +8,20 @@
 
 # Notes:
 # Provides higher end expeditionary ships and a space for vets to spawn in away from potential frontier shenanigans
-- type: pointOfInterest
-  id: Alley
-  parent: BasePOI
-  name: 'The Alley'
-  minimumDistance: 1650
-  maximumDistance: 3400
-  spawnGroup: Required
-  gridPath: /Maps/_AS/POI/the_alley.yml
-  addComponents:
-  - type: IFF
-    color: "#C8A2C8"
-  - type: StationTransit
-    routes:
-      SpawnPoints: 20
+# - type: pointOfInterest
+#   id: Alley
+#   parent: BasePOI
+#   name: 'The Alley'
+#   minimumDistance: 1650
+#   maximumDistance: 3400
+#   spawnGroup: Required
+#   gridPath: /Maps/_AS/POI/the_alley.yml
+#   addComponents:
+#   - type: IFF
+#     color: "#C8A2C8"
+#   - type: StationTransit
+#     routes:
+#       SpawnPoints: 20
 
 - type: gameMap
   id: Alley
