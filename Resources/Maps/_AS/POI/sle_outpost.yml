@@ -45,7 +45,7 @@ entities:
   - uid: 1
     components:
     - type: MetaData
-      name: SLE Outpost
+      name: USF Outpost
     - type: Transform
       pos: 0.31923318,-0.703125
       parent: invalid
