@@ -153,9 +153,9 @@
     job_id: StationRepresentative
 
 - type: entity
-  id: Sheriff
+  id: SpawnPointSheriff
   parent: SpawnPointHeadOfSecurity
-  name: Comissioner
+  name: Sheriff
   components:
   - type: SpawnPoint
     job_id: Sheriff
